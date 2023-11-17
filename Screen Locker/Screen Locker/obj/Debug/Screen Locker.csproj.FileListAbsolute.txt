@@ -1,0 +1,11 @@
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\bin\Debug\Screen Locker.exe.config
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\bin\Debug\Screen Locker.exe
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\bin\Debug\Screen Locker.pdb
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen Locker.csproj.AssemblyReference.cache
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen Locker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen_Locker.Form1.resources
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen_Locker.Properties.Resources.resources
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen Locker.csproj.GenerateResource.cache
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen Locker.csproj.CoreCompileInputs.cache
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen Locker.exe
+C:\Users\Control\source\repos\Screen Locker\Screen Locker\obj\Debug\Screen Locker.pdb
